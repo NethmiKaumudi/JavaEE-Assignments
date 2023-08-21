@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="javax.annotation">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/javax.annotation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.persistence.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
